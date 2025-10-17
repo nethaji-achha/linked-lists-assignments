@@ -15,6 +15,7 @@ Doubly Linked List — Each node points to both next and previous nodes.
 
 Circular Linked List — The last node points back to the first node.
 
+<img width="1536" height="1024" alt="ChatGPT Image Oct 17, 2025, 07_13_52 PM" src="https://github.com/user-attachments/assets/630c618b-a337-4858-8a1d-022a57a9c16e" />
 
 
 
